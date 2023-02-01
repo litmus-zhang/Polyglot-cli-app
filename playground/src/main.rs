@@ -9,7 +9,7 @@ fn main() {
     }
 
     let a = vec![];
-    a.iter().filter(|x| {})
+    a.iter().filter(|x| {});
     //foo.map();
     foo.filter(|x| x < &10);
 
